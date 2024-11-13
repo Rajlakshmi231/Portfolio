@@ -31,8 +31,9 @@ Thank you for your time, I look forward to hearing from you soon.
 <h2>Certificates</h2> 
 
 [SQL Test By HackerRank](https://www.hackerrank.com/certificates/edb287deb32e)</br>
-[Generative AI](https://www.coursera.org/account/accomplishments/certificate/ZJB8M744T3EC)
-
+[Generative AI](https://www.coursera.org/account/accomplishments/certificate/ZJB8M744T3EC)</br>
+[Intro to Programming](https://github.com/Rajlakshmi231/Portfolio/blob/aca7b038349eadfbfc298e955cd8c1025042d002/Certificates/Raj%20Lakshmi%20-%20Intro%20to%20Programming.png)</br>
+[Data Visualization](https://github.com/Rajlakshmi231/Portfolio/blob/aca7b038349eadfbfc298e955cd8c1025042d002/Certificates/Raj%20Lakshmi%20-%20Data%20Visualization.png)
 
 
 
