@@ -19,6 +19,9 @@ Thank you for your time, I look forward to hearing from you soon.
 
 <h2>Projects</h2>
 
+[Airlines Data Analysis](https://github.com/Rajlakshmi231/Airlines-Data-Analysis-)
+
+
 <h2>Core Competencies</h2> 
 
 - Languages :- SQL, Python (Pandas, Numpy, Matplotlib), Java
